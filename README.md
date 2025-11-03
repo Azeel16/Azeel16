@@ -1,135 +1,88 @@
-<h1 align="center">🌸 Hey there, I’m <span style="color:#FDDA0D;">Azeel Ahmed</span> ✨</h1>
+# 🌌 Azeel Ahmed – Personal Portfolio 🚀  
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Azeel16/Portfolio?color=FDDA0D)
+![GitHub stars](https://img.shields.io/github/stars/Azeel16/Portfolio?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Azeel16/Portfolio?color=blue)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+> ⚡ *“Every line of code is a spark of creation.”*  
+
+---
+
+## 🌟 Overview  
+A futuristic and interactive **anime-inspired portfolio website** built using **React.js** — designed to reflect creativity, energy, and precision.  
+With a glowing **black & gold neon theme**, smooth transitions, and subtle particle animations, it brings life to your coding journey.  
+
+💻 **Live Demo:** [Visit Portfolio Website](#)  
+🎨 **Theme:** Dark Neon (Black & Gold)  
+⚙️ **Framework:** React.js  
+
+---
+
+## ✨ Features  
+🌀 **Animated Interface** – Neon glow effects, hover transitions & motion components  
+🎬 **Project Cards** – Video/visual previews with hover animations  
+💫 **3D Skills Sphere** – Rotating interactive cloud of technologies  
+🪪 **Certificates Gallery** – Click-to-view modals with smooth fades  
+📞 **Contact Section** – Animated social icons with color pulse on hover  
+⚡ **Fully Responsive** – Works seamlessly across all devices  
+
+---
+
+## 🛠️ Tech Stack  
+| Frontend | Backend | Database | Hosting | Other Tools |
+|-----------|----------|-----------|----------|--------------|
+| React.js | Node.js (optional) | Firebase / MongoDB | Render / Netlify | HTML5, CSS3, JS, Tailwind |
+
+---
+
+## 🔮 Featured Projects  
+### 💳 **Billing Software**  
+Responsive billing platform with Razorpay payments, secure login, and admin/user dashboards.  
+
+### 🍕 **Zestify – Food Delivery App**  
+End-to-end food ordering experience with restaurant browsing, cart, and order history.  
+
+### ☁️ **Sharely – Cloud File Sharing**  
+Cloud-based file sharing web app ensuring speed, privacy, and reliability.  
+
+### 💰 **TrustLend – Credit Scoring System**  
+AI-powered credit scoring app using Flask and machine learning.  
+
+### 🎟️ **BookMyShow Clone**  
+Interactive ticket booking website for movies & events with MongoDB backend.  
+
+### 💡 **AURA.AI – Emotional Analyzer**  
+AI-driven emotion recognition system that decodes digital conversations using NLP.  
+
+---
+
+## 🧠 Learning Outcomes  
+- Deepened expertise in **React animations** and modern UI frameworks  
+- Developed full-stack projects integrating **AI & ML**  
+- Mastered responsive design with **dark mode optimization**  
+- Hands-on deployment with **Render, Netlify, and AWS**  
+
+---
+
+## 🔗 Connect With Me  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huy232/huy232/refs/heads/main/image/about-me.gif" width="200px" alt="Azeel Anime Coder"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FDDA0D&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Developer+%7C+AI+and+Anime+Lover;☁️+Building+Cloud+Projects;🚀+React+%7C+SpringBoot+%7C+Node.js+%7C+AWS;🔥+Turning+Ideas+into+Reality">
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80" />  
-</p>
-
----
-
-## 🧭 About Me  
-
-> _“Every bug is just a mini-boss waiting to be defeated.”_ ⚔️  
-
-- 🌸 Passionate **Full Stack Developer** from India 🇮🇳  
-- 💡 Exploring **AI**, **Cloud**, and **Modern Web Frameworks**  
-- 🎯 Focused on crafting visually engaging, performance-driven UIs  
-- ✨ Strong believer in learning through building awesome things  
-- 📫 Reach me: [azeelahamed007@gmail.com](mailto:azeelahamed007@gmail.com)
-
----
-
-<img src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" width="100%">
-
----
-
-## 💼 My Experience  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/huy232/huy232/refs/heads/main/image/knowledge.gif" width="300px" align="right" alt="Knowledge GIF"/>
-</p>
-
-### 🚀 Fullstack Intern | TAP ACADEMY  
-🗓️ **17.02.25 – 31.07.25**  
-💬 Fullstack Java - learning Java concepts, frameworks, and database management.  
-🔗 [Click to view certificate](#)
-
----
-
-### 💻 Web Developer Intern | MIT SQUARE  
-🗓️ **01.03.24 – 30.04.24**  
-💬 Internship focused on data and web technology, emphasizing digital systems and web-based solutions.
-
----
-
-### 🌐 Web Developer Intern | LEARN FLOW  
-🗓️ **01.01.24 – 28.02.24**  
-💬 Worked on responsive design and interactive web applications.
-
----
-
-### 📊 Data Science Intern | SHIASH INFO SOLUTIONS  
-🗓️ **15.03.23 – 10.06.23**  
-💬 Focused on data analysis, visualization, and real-world problem solving.
-
----
-
-### 🏭 Tester Intern | LENOVO  
-🗓️ **18.08.22 – 31.08.22**  
-💬 In-plant training in manufacturing operations and industrial workflow exposure.
-
----
-
-<img src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" width="100%">
-
----
-
-## 💡 Skills  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/huy232/huy232/refs/heads/main/image/knowledge.gif" width="150px" align="left"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,spring,java,python,mysql,git,aws,hibernate" /><br><br>
-  <b>Technologies I’ve Mastered:</b><br>
-  HTML5 • CSS3 • JavaScript • React • Node.js • Spring • Java • Python • MySQL • Git • AWS • Hibernate
+  <a href="https://linkedin.com/in/azeel-ahmed-12a73b30a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:azeelahamed007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Azeel16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<img src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" width="100%">
+## 🪪 License  
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 ---
 
-## 🌟 My Top Projects  
-
-| 💻 Project | ⚡ Description | 🧠 Tech Stack |
-|-------------|----------------|---------------|
-| **Billing Software 💳** | A sleek billing platform for real-time payments and invoices. | React • Spring Boot • MySQL • AWS • Razorpay |
-| **Zestify 🍕** | Dynamic food delivery app with restaurant listings & order tracking. | React • Spring Boot • MySQL • Razorpay |
-| **Sharely 💬** | Cloud-based file sharing platform with instant sync. | React • Node.js • Firebase |
-| **TrustLend 💰** | AI-driven credit assessment platform for fair lending. | Python • Flask • Sklearn |
-| **BookMyShow 🎟️** | Ticket booking app for movies & events. | React • Node.js • Express • MongoDB |
-| **AURA.AI 💡** | Emotional analyzer predicting digital sentiment trends. | Flask • NLP • AI |
-
----
-
-<img src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" width="100%">
-
----
-
-## 🧮 GitHub Counter & Stats  
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/63ff507b5e5a5733fa837d15212e931e0a6dd8a5104727677a447644835b6227/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d417a65656c31362673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652672616e6b5f69636e3d67697468756226696e636c7564655f616c6c5f636f6d6d6974733d74727565266c696e655f6865696768743d323026686964655f7469746c653d74727565" width="100%"/>
-</p>
-
----
-
-## 🐉 Fun Fact  
-
-> I treat every coding bug like a **boss fight** in an anime — persistence always wins. ⚔️  
-
-<p align="center">
-  <img src="https://media1.tenor.com/images/af39b6c83e2cb7248b899ec1b6fa967a/tenor.gif?itemid=19024569" width="300px"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azeel16&color=FDDA0D&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
-<p align="center">🌸 Designed with passion and powered by <b>Anime Energy ⚡</b></p>
+⭐ **If you like this project, give it a star — your support keeps the code glowing!** ⚡  
