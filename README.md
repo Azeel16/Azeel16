@@ -1,6 +1,5 @@
 # 🌌 Hi There Its Azeel...  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Azeel16/Portfolio?color=FDDA0D)
 ![GitHub stars](https://img.shields.io/github/stars/Azeel16/Portfolio?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/Azeel16/Portfolio?color=blue)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
