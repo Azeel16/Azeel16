@@ -13,9 +13,9 @@
 ---
 
 ## 🛠️ Tech Stack  
-| Frontend | Backend | Database | Hosting | Other Tools |
+| Frontend | Backend | Database | Cloud | Other Tools |
 |-----------|----------|-----------|----------|--------------|
-| React.js  |Spring & Hyb | Sql | Render / Netlify | HTML5, CSS3, JS, Tailwind |
+| React.js  |Spring & Hibernate  | Sql | AWS | HTML5, CSS3, JS, Tailwind |
 
 ---
 
