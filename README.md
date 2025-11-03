@@ -1,4 +1,4 @@
-# 🌌 Azeel Ahmed – Personal Portfolio 🚀  
+# 🌌 Hi There Its Azeel...  
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Azeel16/Portfolio?color=FDDA0D)
 ![GitHub stars](https://img.shields.io/github/stars/Azeel16/Portfolio?color=yellow)
