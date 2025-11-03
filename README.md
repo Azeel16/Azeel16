@@ -8,31 +8,14 @@
 > ⚡ *“Every line of code is a spark of creation.”*  
 
 ---
-
-## 🌟 Overview  
-A futuristic and interactive **anime-inspired portfolio website** built using **React.js** — designed to reflect creativity, energy, and precision.  
-With a glowing **black & gold neon theme**, smooth transitions, and subtle particle animations, it brings life to your coding journey.  
-
 💻 **Live Demo:** [Visit Portfolio Website](#)  
-🎨 **Theme:** Dark Neon (Black & Gold)  
-⚙️ **Framework:** React.js  
-
----
-
-## ✨ Features  
-🌀 **Animated Interface** – Neon glow effects, hover transitions & motion components  
-🎬 **Project Cards** – Video/visual previews with hover animations  
-💫 **3D Skills Sphere** – Rotating interactive cloud of technologies  
-🪪 **Certificates Gallery** – Click-to-view modals with smooth fades  
-📞 **Contact Section** – Animated social icons with color pulse on hover  
-⚡ **Fully Responsive** – Works seamlessly across all devices  
 
 ---
 
 ## 🛠️ Tech Stack  
 | Frontend | Backend | Database | Hosting | Other Tools |
 |-----------|----------|-----------|----------|--------------|
-| React.js | Node.js (optional) | Firebase / MongoDB | Render / Netlify | HTML5, CSS3, JS, Tailwind |
+| React.js  |Spring & Hyb | Sql | Render / Netlify | HTML5, CSS3, JS, Tailwind |
 
 ---
 
@@ -60,8 +43,6 @@ AI-driven emotion recognition system that decodes digital conversations using NL
 ## 🧠 Learning Outcomes  
 - Deepened expertise in **React animations** and modern UI frameworks  
 - Developed full-stack projects integrating **AI & ML**  
-- Mastered responsive design with **dark mode optimization**  
-- Hands-on deployment with **Render, Netlify, and AWS**  
 
 ---
 
@@ -80,9 +61,5 @@ AI-driven emotion recognition system that decodes digital conversations using NL
 
 ---
 
-## 🪪 License  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-
----
 
 ⭐ **If you like this project, give it a star — your support keeps the code glowing!** ⚡  
