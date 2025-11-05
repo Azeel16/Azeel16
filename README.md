@@ -7,7 +7,7 @@
 > ⚡ *“Every line of code is a spark of creation.”*  
 
 ---
-💻 **Live Demo:** [https://azeelportfolio.netlify.app/](#)  
+💻 **Live Demo:** [Portfolio](https://azeelportfolio.netlify.app/)  
 
 ---
 
