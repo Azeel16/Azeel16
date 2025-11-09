@@ -18,8 +18,7 @@
 
 ###
 
-
-<h2 align="left">About me</h2>
+<h2 align="right">About Me</h2>
 
 ###
 
@@ -57,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
@@ -75,6 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Azeel16/Azeel16/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Azeel16/Azeel16/main/snake.svg" alt="Snake animation" />
 
 ###
