@@ -1,64 +1,72 @@
-# 🌌 Hi There Its Azeel...  
+<h1 align="left">Hello there Its Azeel👋🏻</h1>
 
-![GitHub stars](https://img.shields.io/github/stars/Azeel16/Portfolio?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/Azeel16/Portfolio?color=blue)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+###
 
-> ⚡ *“Every line of code is a spark of creation.”*  
+<br clear="both">
 
----
-💻 **Live Demo:** [Portfolio](https://azeelportfolio.netlify.app/)  
+<img align="right" height="110" src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif"  />
 
----
+###
 
-## 🛠️ Tech Stack  
-| Frontend | Backend | Database | Cloud | Other Tools |
-|-----------|----------|-----------|----------|--------------|
-| React.js  |Spring & Hibernate  | Sql | AWS | HTML5, CSS3, JS, Tailwind |
+<p align="left">A passionate Full Stack Developer who loves building meaningful digital experiences</p>
 
----
+###
 
-## 🔮 Featured Projects  
-### 💳 **Billing Software**  
-Responsive billing platform with Razorpay payments, secure login, and admin/user dashboards.  
+<img align="left" height="200" src="https://i.pinimg.com/originals/06/95/f6/0695f6d773f79217f094a05f67a9e810.gif"  />
 
-### 🍕 **Zestify – Food Delivery App**  
-End-to-end food ordering experience with restaurant browsing, cart, and order history.  
+###
 
-### ☁️ **Sharely – Cloud File Sharing**  
-Cloud-based file sharing web app ensuring speed, privacy, and reliability.  
+<h2 align="right">About me</h2>
 
-### 💰 **TrustLend – Credit Scoring System**  
-AI-powered credit scoring app using Flask and machine learning.  
+###
 
-### 🎟️ **BookMyShow Clone**  
-Interactive ticket booking website for movies & events with MongoDB backend.  
+<p align="left">💻 I enjoy blending creativity and logic to craft sleek, functional, and scalable applications.<br><br>🚀 Always exploring new technologies and pushing the limits of design and code.<br> **Portfolio :** [(https://azeelportfolio.netlify.app/)</p>
 
-### 💡 **AURA.AI – Emotional Analyzer**  
-AI-driven emotion recognition system that decodes digital conversations using NLP.  
+###
 
----
+<h2 align="left">Skills</h2>
 
-## 🧠 Learning Outcomes  
-- Deepened expertise in **React animations** and modern UI frameworks  
-- Developed full-stack projects integrating **AI & ML**  
+###
 
----
+<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3l0ZnV2cGd1eHZpYXNtOXlvZWRicTh5aDZ4OGNlaWF6NGxjYmZ5MyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif"  />
 
-## 🔗 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/azeel-ahmed-12a73b30a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/azeel-ahmed-12a73b30a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:azeelahamed007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/Azeel16" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+###
 
+<img src="https://raw.githubusercontent.com/Azeel16/Azeel16/output/snake.svg" alt="Snake animation" />
 
-⭐ **If you like this project, give it a star — your support keeps the code glowing!** ⚡  
+###
