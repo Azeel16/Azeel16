@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" />
+<img align="right" height="250" src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" />
 
 ###
 
