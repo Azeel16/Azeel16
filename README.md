@@ -25,7 +25,6 @@
 <p align="left">
   💻 I enjoy blending creativity and logic to craft sleek, functional, and scalable applications.<br><br>
   🚀 Always exploring new technologies and pushing the limits of design and code.<br><br>
-  🎮 Fun fact: I made a GTA-themed portfolio before GTA 6 dropped!<br><br>
   🌐 Portfolio: <a href="https://azeelportfolio.netlify.app/" target="_blank">azeelportfolio.netlify.app</a>
 </p>
 
