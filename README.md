@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img align="right" height="220" style="margin-left: 20px; border-radius: 10px;" src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" />
   <p align="left" style="font-size: 16px;">
     A passionate <b>Full Stack Developer</b> who loves building meaningful digital experiences.
   </p>
@@ -12,7 +11,6 @@
 ###
 
 <div align="center">
-  <img align="left" height="250" style="margin-right: 20px; border-radius: 10px;" src="https://i.pinimg.com/originals/06/95/f6/0695f6d773f79217f094a05f67a9e810.gif" />
   <div align="left" style="max-width: 70%;">
     <h2>About Me</h2>
     <p>
