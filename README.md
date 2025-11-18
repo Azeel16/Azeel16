@@ -64,11 +64,5 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Azeel16/Azeel16/main/snake.svg" alt="Snake animation" />
-</div>
-
-###
 
